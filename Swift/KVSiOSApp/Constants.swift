@@ -4,7 +4,7 @@ import AWSCognitoIdentityProvider
 // Cognito constants
 let awsCognitoUserPoolsSignInProviderKey = "UserPool"
 
-let cognitoIdentityUserPoolRegion = AWSRegionType.Unknown //  <- REPLACE ME!
+let cognitoIdentityUserPoolRegion = AWSRegionType.USWest2 //  <- REPLACE ME!
 let cognitoIdentityUserPoolId = "REPLACEME"
 let cognitoIdentityUserPoolAppClientId = "REPLACEME"
 let cognitoIdentityUserPoolAppClientSecret = "REPLACEME"
